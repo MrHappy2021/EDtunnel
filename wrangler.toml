@@ -71,7 +71,7 @@ custom_domain = true
 
 [vars]
 # UUID = "74f9da00-cdf1-4612-916c-fdab0ad8179c"
-# PROXYIP = "8.219.97.248"
+# PROXYIP = "162.245.85.220";"162.223.94.164";"5.161.103.113"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
