@@ -44,7 +44,7 @@ custom_domain = true
 pattern = "link.e.tiktok.com.us.nurisfamz.my.id"
 custom_domain = true
 [[routes]]
-pattern = "www.opensignal.com.us.nurisfamz.my.id"
+pattern = "space.byu.id.us.nurisfamz.my.id"
 custom_domain = true
 [[routes]]
 pattern = "go2.webtoon.com.us.nurisfamz.my.id"
